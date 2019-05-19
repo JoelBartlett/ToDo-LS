@@ -21,10 +21,8 @@ input {
   font-size: 16px;
 }
 body{background-color: #FF8633;}
-.container{
-  text-align: center;
-  padding: 30px;
-}
+
+.container{  padding: 30px;}
 
 .card-container{
   margin: 0 auto;
