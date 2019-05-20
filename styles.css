@@ -11,7 +11,7 @@ margin-left: auto;
 margin-right: auto;}
 input {
   background-color: #1d55af;
-  ont-family: 'Righteous', cursive;
+  font-family: 'Righteous', cursive;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -28,6 +28,7 @@ body{background-color: #FF8633;}
   margin: 0 auto;
   margin-bottom: 10px;
   padding: 8px;
+font-family: 'Righteous', cursive;
   width: 300px;}
 
 .listButton{
